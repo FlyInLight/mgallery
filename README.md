@@ -5,6 +5,12 @@
 ![localhost_8080_page](https://user-images.githubusercontent.com/45113666/126054367-a71fedc0-679d-4181-9af8-29a9a730f4a9.png)
 
 后台：访问management.html
+- 油画列表
+- 油画预览
+- 删除油画
+- 新增油画
+- 修改油画
+
 显示油画数据列表，同样重用写好的类和方法实现分页功能
 ![image](https://user-images.githubusercontent.com/45113666/126054389-2eaff734-ea33-409b-881e-86fc211ad917.png)
 
