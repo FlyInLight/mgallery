@@ -1,7 +1,7 @@
 # 企业门户网站前后台开发
 
 前台：
-从xml文件做数据源，通过后台处理再前台显示数据，并实现分页功能
+从xml文件做数据源，通过后台处理传入前台显示数据，并实现分页功能
 ![localhost_8080_page](https://user-images.githubusercontent.com/45113666/126054367-a71fedc0-679d-4181-9af8-29a9a730f4a9.png)
 
 后台：访问management.html
