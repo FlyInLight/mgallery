@@ -3,6 +3,8 @@
 前台：
 从xml文件做数据源，通过后台处理传入前台显示数据，并实现分页功能
 ![localhost_8080_page](https://user-images.githubusercontent.com/45113666/126054367-a71fedc0-679d-4181-9af8-29a9a730f4a9.png)
+可以根据分类展示图片
+![可以根据分类展示图片](https://images.gitee.com/uploads/images/2021/0718/122213_71bd3b3b_1933483.png "屏幕截图.png")
 
 后台：访问management.html
 - 油画列表
