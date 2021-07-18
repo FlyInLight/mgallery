@@ -11,7 +11,7 @@
 能对油画图片进行预览
 ![image](https://user-images.githubusercontent.com/45113666/126054402-8480b986-1964-486b-b2b9-318be18dc49f.png)
 
-修改，根据id拿到油画数据填入表单，提交修改
+修改，根据id拿到油画数据填入表单(在修改页面放入hidden隐藏域)，提交修改
 ![localhost_8080_management html](https://user-images.githubusercontent.com/45113666/126054411-014fda3e-fdd6-4b5d-b56d-f9d61c172068.png)
 
 删除
